@@ -1,5 +1,10 @@
-Examination System in Java (GUI-Based)
-The Examination System is a Java-based application designed to provide an efficient and interactive Graphical User Interface (GUI) for conducting quizzes. It enables users to attempt multiple-choice questions (MCQs), evaluate their responses, and receive instant feedback in the form of a final score. The system is implemented using Java Swing, ensuring a user-friendly experience with smooth functionality
+𝙀𝙭𝙖𝙢𝙞𝙣𝙖𝙩𝙞𝙤𝙣 𝙎𝙮𝙨𝙩𝙚𝙢 𝙞𝙣 𝙅𝙖𝙫𝙖 (𝙂𝙐𝙄-𝘽𝙖𝙨𝙚𝙙)
+
+The Examination System is a Java-based application designed to provide an efficient and interactive Graphical User Interface (GUI) for conducting multiple-choice question (MCQ) assessments. It allows users to attempt MCQs, evaluate their responses, and receive instant feedback in the form of a final score.
+
+This system is implemented using Java, leveraging AWT (Abstract Window Toolkit) and Swing to ensure a user-friendly and responsive interface.
+
+
 Step 1:
 ![WhatsApp Image 2025-03-02 at 4 34 02 PM (1)](https://github.com/user-attachments/assets/143fec2c-0a0a-4d43-918b-420619ff597e)
 
