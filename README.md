@@ -17,7 +17,6 @@ Step 3:
 CMD:-
 
 #javac ExamSystem.java
-
 #java ExamSystem
  
 
